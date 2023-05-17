@@ -1,0 +1,1 @@
+{"version":3,"file":"plataforma.js","sourceRoot":"","sources":["../../src/class/plataforma.ts"],"names":[],"mappings":";;;AAGA,MAAa,UAAU;IAGnB,YAA2B,gBAAwB,EAAU,QAAgB,EAAU,aAA8B,EAAU,MAAe;QAAnH,qBAAgB,GAAhB,gBAAgB,CAAQ;QAAU,aAAQ,GAAR,QAAQ,CAAQ;QAAU,kBAAa,GAAb,aAAa,CAAiB;QAAU,WAAM,GAAN,MAAM,CAAS;IAI9I,CAAC;IAEO,qBAAqB;QACzB,OAAO,IAAI,CAAC,MAAM,CAAC;IACvB,CAAC;CAGJ;AAdD,gCAcC"}
